@@ -37,11 +37,3 @@ To swap out the stats or info for your own:
 * **Themes:** Change the progress bar colors using classes like `is-success` (green), `is-warning` (yellow), or `is-error` (red).
 * **Avatars:** The current experience section uses pixelated GitHub avatars.
 
----
-
-## 📜 Credits
-* **Design Framework:** [NES.css](https://github.com/BcRikko/NES.css)
-* **Developer:** Ziad Galal
-
----
-*Generated for the Personal-website repository.*****
